@@ -1,1 +1,1 @@
-# Impacto of macroeconomics indicators on tokens markets
+# Aggregate Consumption and Token Prices: an empirical evaluation
